@@ -28,6 +28,9 @@ h2 {
   margin-top: 20px;
   max-width: 60%;
 }
+.github-link {
+  text-align: center;
+}
 .main-image {
   color: #94e475;
   font-size: 122px;
