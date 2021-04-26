@@ -1,0 +1,70 @@
+body {
+  font-family: "Varela Round", sans-serif;
+  color: #febf63;
+}
+h1 {
+  margin-bottom: 0rem;
+}
+h2 {
+  font-size: 3.325rem;
+  margin-top: 30px;
+}
+.additional-info {
+  margin-bottom: 0rem;
+  margin-top: 28px;
+}
+.card {
+  background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
+  border: solid #febf63 3px;
+  max-width: 100%;
+}
+.day {
+  font-size: 20px;
+  text-align: center;
+}
+.form-control {
+  display: inline;
+  margin-left: 81px;
+  margin-top: 20px;
+  max-width: 60%;
+}
+.main-image {
+  color: #94e475;
+  font-size: 122px;
+  max-width: 50%;
+  margin-top: 10px;
+}
+.search-bar {
+  bottom: -10px;
+  position: relative;
+}
+.search-btn {
+  background-color: #7fdbda;
+  border: none;
+}
+.small-weather {
+  color: #94e475;
+  font-size: 40px;
+  text-align: center;
+}
+.temperature-today {
+  font-size: 35px;
+}
+.week-prediction {
+  bottom: 3px;
+  left: 20px;
+  position: relative;
+  margin-top: 20px;
+}
+#celcius {
+  text-decoration: none;
+  color: #e69720;
+}
+#current-location {
+  display: block;
+  margin: 0 auto;
+}
+#farenheit {
+  text-decoration: none;
+  color: #e69720;
+}
